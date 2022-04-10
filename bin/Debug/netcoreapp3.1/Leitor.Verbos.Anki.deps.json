@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Leitor.Verbos.Anki/1.0.0": {
+        "runtime": {
+          "Leitor.Verbos.Anki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leitor.Verbos.Anki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
